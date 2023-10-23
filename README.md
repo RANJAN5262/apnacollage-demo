@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first repository.
 <br>
-Author - Ravi Ranjan(rr)
+Author - Ravi Ranjan(real name)
